@@ -1,7 +1,7 @@
 ---
 title: Client-Schnellstart
 slug: client-quickstart
-order: 5
+order: 20
 section: Erste Schritte
 ---
 
